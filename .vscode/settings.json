@@ -9,4 +9,5 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
+    "appService.defaultWebAppToDeploy": "/subscriptions/9eb29f5b-d771-454e-a78e-0ca3afe79389/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/web-app-with-mongodb-saul-carranza",
 }
